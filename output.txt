@@ -1,0 +1,10 @@
+create_table mytab 
+add_attribute mytab double c
+add_attribute mytab int d
+add_attribute mytab char e
+add_attribute mytab char d
+insert_into mytab (12,12,e,abc)
+create_table Srinivas
+add_attribute Srinivas char e
+add_attribute Srinivas char d
+insert_into Srinivas (e,abc)
